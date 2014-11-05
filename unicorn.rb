@@ -1,4 +1,4 @@
-@dir = "/var/www/dcshows/"
+@dir = "/var/www/jshawl.com/dcshows/"
 
 worker_processes 2
 working_directory @dir

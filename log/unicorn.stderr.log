@@ -1,0 +1,80 @@
+I, [2014-11-05T16:40:53.995068 #7571]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:40:53.995514 #7571]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:40:54.000152 #7571]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:40:54.001254 #7574]  INFO -- : worker=0 spawned pid=7574
+I, [2014-11-05T16:40:54.001501 #7574]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:40:54.004281 #7571]  INFO -- : master process ready
+I, [2014-11-05T16:40:54.020022 #7577]  INFO -- : worker=1 spawned pid=7577
+I, [2014-11-05T16:40:54.020320 #7577]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:40:54.448156 #7574]  INFO -- : worker=0 ready
+I, [2014-11-05T16:40:54.456772 #7577]  INFO -- : worker=1 ready
+I, [2014-11-05T16:49:47.079088 #7571]  INFO -- : reaped #<Process::Status: pid 7574 exit 0> worker=0
+I, [2014-11-05T16:49:47.079382 #7571]  INFO -- : reaped #<Process::Status: pid 7577 exit 0> worker=1
+I, [2014-11-05T16:49:47.079580 #7571]  INFO -- : master complete
+I, [2014-11-05T16:49:54.602804 #7724]  INFO -- : unlinking existing socket=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock
+I, [2014-11-05T16:49:54.607394 #7724]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:49:54.607609 #7724]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:49:54.608814 #7724]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:49:54.609814 #7727]  INFO -- : worker=0 spawned pid=7727
+I, [2014-11-05T16:49:54.610099 #7727]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:49:54.611577 #7724]  INFO -- : master process ready
+I, [2014-11-05T16:49:54.627972 #7730]  INFO -- : worker=1 spawned pid=7730
+I, [2014-11-05T16:49:54.628274 #7730]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:49:55.021121 #7730]  INFO -- : worker=1 ready
+I, [2014-11-05T16:49:55.114673 #7727]  INFO -- : worker=0 ready
+I, [2014-11-05T16:50:44.066449 #7724]  INFO -- : reaped #<Process::Status: pid 7727 exit 0> worker=0
+I, [2014-11-05T16:50:44.066730 #7724]  INFO -- : reaped #<Process::Status: pid 7730 exit 0> worker=1
+I, [2014-11-05T16:50:44.066994 #7724]  INFO -- : master complete
+I, [2014-11-05T16:50:47.406801 #7770]  INFO -- : unlinking existing socket=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock
+I, [2014-11-05T16:50:47.411395 #7770]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:50:47.411632 #7770]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:50:47.415949 #7770]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:50:47.417059 #7773]  INFO -- : worker=0 spawned pid=7773
+I, [2014-11-05T16:50:47.417308 #7773]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:50:47.419605 #7770]  INFO -- : master process ready
+I, [2014-11-05T16:50:47.436028 #7776]  INFO -- : worker=1 spawned pid=7776
+I, [2014-11-05T16:50:47.436364 #7776]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:50:47.833733 #7776]  INFO -- : worker=1 ready
+I, [2014-11-05T16:50:47.836220 #7773]  INFO -- : worker=0 ready
+I, [2014-11-05T16:51:02.056772 #7770]  INFO -- : reaped #<Process::Status: pid 7773 exit 0> worker=0
+I, [2014-11-05T16:51:02.056953 #7770]  INFO -- : reaped #<Process::Status: pid 7776 exit 0> worker=1
+I, [2014-11-05T16:51:02.057082 #7770]  INFO -- : master complete
+I, [2014-11-05T16:51:10.016904 #7802]  INFO -- : unlinking existing socket=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock
+I, [2014-11-05T16:51:10.017431 #7802]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:51:10.017713 #7802]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:51:10.023386 #7802]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:51:10.025053 #7805]  INFO -- : worker=0 spawned pid=7805
+I, [2014-11-05T16:51:10.025410 #7805]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:51:10.028188 #7802]  INFO -- : master process ready
+I, [2014-11-05T16:51:10.036586 #7808]  INFO -- : worker=1 spawned pid=7808
+I, [2014-11-05T16:51:10.036932 #7808]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:51:10.482037 #7805]  INFO -- : worker=0 ready
+I, [2014-11-05T16:51:10.492702 #7808]  INFO -- : worker=1 ready
+I, [2014-11-05T16:51:49.457286 #7802]  INFO -- : reaped #<Process::Status: pid 7805 exit 0> worker=0
+I, [2014-11-05T16:51:49.457468 #7802]  INFO -- : reaped #<Process::Status: pid 7808 exit 0> worker=1
+I, [2014-11-05T16:51:49.457605 #7802]  INFO -- : master complete
+I, [2014-11-05T16:51:52.322824 #7875]  INFO -- : unlinking existing socket=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock
+I, [2014-11-05T16:51:52.327332 #7875]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:51:52.327542 #7875]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:51:52.328605 #7875]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:51:52.331797 #7878]  INFO -- : worker=0 spawned pid=7878
+I, [2014-11-05T16:51:52.332071 #7878]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:51:52.335731 #7875]  INFO -- : master process ready
+I, [2014-11-05T16:51:52.351932 #7881]  INFO -- : worker=1 spawned pid=7881
+I, [2014-11-05T16:51:52.352259 #7881]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:51:52.737769 #7878]  INFO -- : worker=0 ready
+I, [2014-11-05T16:51:52.738492 #7881]  INFO -- : worker=1 ready
+I, [2014-11-05T16:52:36.890168 #7875]  INFO -- : reaped #<Process::Status: pid 7878 exit 0> worker=0
+I, [2014-11-05T16:52:36.890382 #7875]  INFO -- : reaped #<Process::Status: pid 7881 exit 0> worker=1
+I, [2014-11-05T16:52:36.890532 #7875]  INFO -- : master complete
+I, [2014-11-05T16:52:43.219475 #7933]  INFO -- : unlinking existing socket=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock
+I, [2014-11-05T16:52:43.219957 #7933]  INFO -- : listening on addr=/var/www/jshawl.com/dcshows/tmp/sockets/unicorn.sock fd=10
+I, [2014-11-05T16:52:43.220231 #7933]  INFO -- : worker=0 spawning...
+I, [2014-11-05T16:52:43.224073 #7933]  INFO -- : worker=1 spawning...
+I, [2014-11-05T16:52:43.227815 #7936]  INFO -- : worker=0 spawned pid=7936
+I, [2014-11-05T16:52:43.228080 #7936]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:52:43.231817 #7933]  INFO -- : master process ready
+I, [2014-11-05T16:52:43.240353 #7939]  INFO -- : worker=1 spawned pid=7939
+I, [2014-11-05T16:52:43.240673 #7939]  INFO -- : Refreshing Gem list
+I, [2014-11-05T16:52:43.646510 #7936]  INFO -- : worker=0 ready
+I, [2014-11-05T16:52:43.653266 #7939]  INFO -- : worker=1 ready
