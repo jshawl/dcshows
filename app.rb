@@ -2,7 +2,7 @@ require 'sinatra'
 require 'sinatra/reloader'
 require 'httparty'
 
-class DCShows
+class DCShows < Sinatra::Base
 
   get '/feed.xml' do
     url = "http://api.songkick.com/api/3.0/metro_areas/1409/calendar.xml?apikey=" + ENV['API_KEY']
